@@ -3,6 +3,8 @@
 
 -This program can download youtube public videos,playlists and channels. 
 
--you just need copy the link and paste in link field, choose if you want a specific folder for the file and the format of the file (video or audio).
+-You can choose the destination of your file in some clicks or just type the destinatio.
 
--he gonna try get the best quality for the video or audio formats.
+-You just need copy the link and paste in link field, choose if you want a specific folder for the file and the format of the file (video or audio).
+
+-He gonna try get the best quality for the video or audio formats.
