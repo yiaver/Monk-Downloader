@@ -1,0 +1,2 @@
+PySimpleGUI==4.60.1
+yt-dlp==2022.5.18 
