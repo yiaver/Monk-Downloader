@@ -2,7 +2,6 @@ import os
 from yt_dlp import YoutubeDL as yt_dl
 from yt_dlp.postprocessor import FFmpegExtractAudioPP
 
-
 class VideoDownloader:
     def __init__(self,link="",diretorio=""):
         try:
