@@ -58,7 +58,8 @@ class Window:
     def run(self):
         patternLink1 = re.compile(r"www\.youtube\.com/watch\?v=[a-zA-Z0-9]+")
         patternLink2 = re.compile(r"www.youtube.com/c/[a-zA-Z0-9]+")
-        patterns = [patternLink1,patternLink2]
+        patternLink3 = re.compile(r"www\.youtube\.com/watch\?v=[a-zA-Z0-9]+\&list=")
+        patterns = [patternLink1,patternLink2,patternLink3]
         while True:
             evento , valor = self.main_window.read(300)
             
